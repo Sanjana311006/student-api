@@ -1,5 +1,5 @@
 # student-api
-##Features
+## Features
 - Add student (POST)
 - View all students (GET)
 - View single student (GET by ID)
